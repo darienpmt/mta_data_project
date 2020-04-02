@@ -5,6 +5,7 @@
  - Explain to the client what they should learn from the presentation. We will present data to show them the top 10 busiest stations
    by total foot traffic coming in and out. We'll also show the average traffic by weekday so, if you want, you can target particular 
    days of the week.
+ - Explain to the client what data we are using and where it came from?
  - Additionally, despsite what our data says, it may also be a good idea to send people to collect emails from subway stations close
    to where the event will be held. People are more likely to attend if they do not have to venture very far!
  - We also recommend, if possible, that you send people to subway stations during peak hours, which according to the MTA, are from 
